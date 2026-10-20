@@ -1,0 +1,25 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.table {
+    width: 200px;
+    border-collapse: collapse;
+}
+
+.table th, .table td {
+    border: 1px solid #0d0d0d;
+    padding: 12px;
+    text-align: left;
+}
+
+.table th{
+    background-color: black;
+    color: white;
+}
+
+td.temperature {
+    text-align: center;
+}

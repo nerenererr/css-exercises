@@ -1,0 +1,3 @@
+## Ejercicio 6. Combianr selectores
+
+Crea la página de la imagen en la que tienes una tabla con cabecera y pie. Todas las celdas del cuerpo de la tabla tienen el mismo aspecto: fondo blanco texto arial y azul, con borde y paddign 8px en vertical y 4 en lo laterales. Las celdas que tengan la clase destacar deben tener el fondo rojo y las letras blancas. El pie de la tabla usa un texto centrado de tamaño 12px. El ancho de las columnas lo debes fijar con las celdas th en 170px. El titular (caption) de la tabla tiene un texto de tamaño 18px y está en negrita

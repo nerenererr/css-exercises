@@ -1,0 +1,22 @@
+.title {
+    font-size: 24px;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    color: rgb(116, 116, 250);
+    text-decoration: underline;
+}
+
+.line {
+    font-family: Arial, sans-serif;
+    font-style: bold;    
+}
+
+#p1.line {
+    color: red;
+    text-align: right;
+}
+
+#p2.line {
+    color: blue;
+    text-align: left;
+}
