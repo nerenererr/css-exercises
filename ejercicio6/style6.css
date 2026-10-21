@@ -1,0 +1,30 @@
+.table {
+    border-collapse: collapse;
+}
+
+.caption {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.head {
+    width: 170px;
+}
+
+.body td {
+    background-color: white;
+    color: blue;
+    border: 1px solid black;
+    padding: 8px 4px;
+}
+
+.body td.highlight {
+    background-color: red;
+    color: white;
+}
+
+.foot {
+    text-align: center;
+    font-size: 12px;
+}
+

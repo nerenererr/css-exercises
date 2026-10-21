@@ -1,8 +1,30 @@
-
-.cardBox {
-    border-radius: 3px;
+html {
+    font-family: Arial, sans-serif;
+    font-size: 14px;
 }
 
 .card {
+    width: 300px;
+    margin: 40px auto;
+    box-shadow: 0 0 4px 4px lightgray;
+}
 
+.title {
+    color: white;
+    background-color: gray;
+    padding: 8px;
+    text-align: center;
+    font-size: 1.5rem;
+}
+
+.body {
+    font-style: italic;
+    text-align: justify;
+    padding: 8px;
+}
+
+.foot {
+    background-color: lightgray;
+    text-align: center;
+    padding: 8px;
 }
